@@ -13,3 +13,5 @@
 - [] Instalar o Knex;
 - [] Usar o Handlebarjs;
 - [] Instalar o CORS para conexão da API com o frontend;
+
+#### Novas features:
